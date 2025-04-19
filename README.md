@@ -75,6 +75,7 @@ AccountManagementSystem/
 Customer
 
 public class Customer
+
 {
     public int Id { get; set; }
     public string FirstName { get; set; }
@@ -85,6 +86,7 @@ public class Customer
 ## AddCustomerDto
 
 public class AddCustomerDto
+
 {
     public string FirstName { get; set; }
     public string LastName { get; set; }
