@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mBH1nqC/S5sOcDqQFhuMgeMdJZvRf6OCVwF9uXMQ1wE=",
+  "Source": "AccountManagementSystem",
+  "BasePath": "_content/AccountManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

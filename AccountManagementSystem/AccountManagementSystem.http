@@ -1,0 +1,27 @@
+@AccountManagementSystem_HostAddress = http://localhost:5041
+
+GET {{AccountManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+####
+GET {{AccountManagementSystem_HostAddress}}/api/customer
+
+###
+
+POST {{AccountManagementSystem_HostAddress}}/customer
+Content-Type: application/json
+
+{
+  //AddCustomerDto
+}
+
+###
+
+GET {{AccountManagementSystem_HostAddress}}/customer
+
+###
+
+@email=string
+GET {{AccountManagementSystem_HostAddress}}/Customer/C2two@gmail.com
+
+###
